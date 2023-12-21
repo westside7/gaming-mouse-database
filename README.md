@@ -14,8 +14,10 @@ As a user, I want to...
 - see notable esport players who uses this mouse
 
 ## Wireframes
+![Wireframe](https://github.com/westside7/gaming-mouse-database/assets/44102394/0481bda9-428d-4953-85a0-e419e65d6f98)
 
 ## ERD Diagram
+![ERD](https://github.com/westside7/gaming-mouse-database/assets/44102394/5143c3f2-4bff-4dbf-ab76-75da79ecfeca)
 
 ## Technologies Used
 - EJS
