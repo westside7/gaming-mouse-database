@@ -2,7 +2,7 @@
 ##Overview
 This is a database of gaming mice available in the market. It will show the specifications and the technology that it comes with.
 
-##User Stories
+## User Stories
 As a user, I want to...
 - sign up
 - sign in
@@ -13,11 +13,11 @@ As a user, I want to...
 - click into a mouse to see the specs (also maybe see a picture)
 - see notable esport players who uses this mouse
 
-##Wireframes
+## Wireframes
 
-##ERD Diagram
+## ERD Diagram
 
-##Technologies Used
+## Technologies Used
 - EJS
 - Node.js
 - Express
@@ -25,4 +25,4 @@ As a user, I want to...
 - JavaScript
 - Mongoose
 
-##Next Steps
+## Next Steps
