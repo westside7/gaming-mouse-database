@@ -1,5 +1,5 @@
 # gaming-mouse-database
-##Overview
+## Overview
 This is a database of gaming mice available in the market. It will show the specifications and the technology that it comes with.
 
 ## User Stories
